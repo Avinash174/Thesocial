@@ -1,4 +1,4 @@
-# frontend
+# Thesocial Frontend
 
 A new Flutter project.
 
